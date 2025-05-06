@@ -213,7 +213,7 @@ def get_plr_sprite(sprite_sheet, frame, width, height, scale):
     plr_surf = pygame.Surface((width, height)).convert_alpha()
     # Blit cut out player img to surf
     plr_surf.blit(sprite_sheet, (0, 0), ((frame * width), 0, width, height))
-    # Set colour of player surf to alpha(invis)
+    # Set colour of player surf to alpha(invisible)
     plr_surf.set_colorkey(blk)
     # Increase size of the player
     plr_scaled_surf = pygame.transform.scale(
@@ -315,7 +315,7 @@ def slime_sprite(sprite_sheet, frame, width, height, scale):
     s_surf = pygame.Surface((width, height)).convert_alpha()
     # Blit cut out green slime img to surf
     s_surf.blit(sprite_sheet, (0, 0), ((frame * width), 0, width, height))
-    # Set colour of green slime surf to alpha(invis)
+    # Set colour of green slime surf to alpha(invisible)
     s_surf.set_colorkey(blk)
     # Flip the green slime to face correct way
     s_flip = pygame.transform.flip(s_surf, True, False)
@@ -331,7 +331,7 @@ def bird_sprite(sprite_sheet, frame, width, height, scale):
     b_surf = pygame.Surface((width, height)).convert_alpha()
     # Blit cut out green slime img to surf
     b_surf.blit(sprite_sheet, (0, 0), ((frame * width), 0, width, height))
-    # Set colour of green slime surf to alpha(invis)
+    # Set colour of green slime surf to alpha(invisible)
     b_surf.set_colorkey(blk)
     # Increase size of the green slime
     b_scaled = pygame.transform.scale(b_surf, (width * scale, height * scale))
