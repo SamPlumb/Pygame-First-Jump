@@ -1,7 +1,5 @@
 # First Jump!
 
-My first project to learn about creating simple games using pygame-ce.
-
 ### My Goal -
 
 The goal with this project was to use my knowledge gained from learning Python and use it to develop something that interests me, Gaming! I found Pygame, a module that enables you to create games, Perfect. So I thought of a basic concept that would be achievable, that I could complete and be proud of! 
