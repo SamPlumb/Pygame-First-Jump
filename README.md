@@ -12,7 +12,18 @@ From some research I found that Pygame is quite good for 2D platformer games, an
 ## Screenshots - 
 
 ### Main Menu: 
-[image alt](FirstJumpAssets/Screenshots/Main_Menu.jpg)
+
+![image alt](FirstJumpAssets/Screenshots/Main_Menu.jpg)
+
+### Game Running: 
+
+![image alt](FirstJumpAssets/Screenshots/Playing_Game.jpg)
+
+### Game Over Menu:
+
+![image alt](FirstJumpAssets/Screenshots/Game_Over.jpg)
+
+
 
 
 ## How To Play -
