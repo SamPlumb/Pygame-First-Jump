@@ -4,7 +4,7 @@
 
 The goal with this project was to use my knowledge gained from learning Python and use it to develop something that interests me, Gaming! I found Pygame, a module that enables you to create games, Perfect. So I thought of a basic concept that would be achievable, that I could complete and be proud of! 
 
-From some research I found that Pygame is quite good for 2D platformer games, and I could recreate a simple version of Geometry Dash. After a few days, a lot of trial and error, reading the Pygame docs and tutorials of the features I wanted to implement. I had something that was functional, basic, but it worked! Over a couple of weeks of adding new things, breaking things, fixing them and breaking them again. I had what you see here. A functional game with menu states, animated sprites, collisions, sounds, a score counter and a basic jumping mechanic. It's not perfect, but it works! 
+From some research I found that Pygame is quite good for 2D platformer games, and I could recreate a simple version of Geometry Dash. After a few days, a lot of trial and error, reading the [Pygame docs](https://www.pygame.org/docs/) and tutorials of the features I wanted to implement. I had something that was functional, basic, but it worked! Over a couple of weeks of adding new things, breaking things, fixing them and breaking them again. I had what you see here. A functional game with menu states, animated sprites, collisions, sounds, a score counter and a basic jumping mechanic. It's not perfect, but it works! 
 
 
 ## Screenshots - 
